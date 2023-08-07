@@ -18,5 +18,6 @@
 - HTML
 - CSS (with Normalize.css)
 - JavaScript (ES6)
+- MySql
 - Postman API
 - Flask
